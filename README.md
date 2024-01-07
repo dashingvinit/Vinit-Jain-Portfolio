@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi,<br>I'am Vinit<br>MERN Stack<br>Web Developer<br>Experienced MERN Stack Web Developer with a passion for creating innovative and efficient web applications. Proficient in HTML, CSS, JavaScript, React, Node.js, and MongoDB. Driven to continuously improve skills and produce top-quality work.
+Hi,<br>I'am Vinit<br>MERN Stack<br>Web Developer<br><br>Experienced Developer with a passion for creating innovative and efficient web applications. Proficient in HTML, CSS, JavaScript, React, Node.js, and MongoDB. Driven to continuously improve skills and produce top-quality work.
 
 <div align="center">
 
