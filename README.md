@@ -5,9 +5,15 @@ Hi,<br>I'am Vinit<br>MERN Stack<br>Web Developer<br><br>Experienced Developer wi
 <div align="center">
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dash_vinit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vinit P. Jain) <!-- LinkedIn link text is hidden -->
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/VinitKumarPara1)
+<a href="https://instagram.com/dash_vinit" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://linkedin.com/in/Vinit P. Jain" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://x.com/VinitKumarPara1" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+</a>
 
 
 # 💻 Tech Stack:
